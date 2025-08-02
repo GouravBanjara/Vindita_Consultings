@@ -1,4 +1,4 @@
-#Vindita_Consulting_Assessment#
+# Vindita_Consulting_Assessment#
 <h2>Project Objective</h2>
 The goal of this case study was to:
 Assess player engagement through a predefined loyalty points formula
